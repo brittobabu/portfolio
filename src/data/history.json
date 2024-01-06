@@ -1,0 +1,21 @@
+[
+    {
+      "role": "Electrical Associate Engineer",
+      "organisation": "GlobalFoundries",
+      "startDate": "June, 2021",
+      "endDate": "Present",
+      "experiences": ["Analyzed FDC data from various sensors and equipments.", "Planning weekly meetings, addressing outstanding issues.","Played a key role in ensuring contractors' adherence to SOPs and conducted engaging training sessions."],
+      "imageSrc": "history/gf.png"
+    },
+    {
+      "role": "Research Intern",
+      "organisation": "Robotics and Automation Center, Temasek Polytechnic",
+      "startDate": "Mar, 2020",
+      "endDate": "Oct, 2020",
+      "experiences": [
+        "Designed Cleaning Robot layout using SolidWorks, Creo, Sketchup.",
+        "Created and maintained product and process documentation."
+      ],
+      "imageSrc": "history/tp.png"
+    }
+  ]

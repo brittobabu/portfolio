@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building a website.",
+      "skills": ["React", "Figma", "CSS","HTML"],
+      "demo": "https://viteportfolio-b9e02.web.app",
+      "source": "https://github.com/brittobabu/react-portfolio"
+    },
+    {
+      "title": "C++ Programming",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn and understand C++ with Git Integration.",
+      "skills": ["C++", "VScode", "Git"],
+      "demo": "https://github.com/brittobabu/Login-form",
+      "source": "https://github.com/brittobabu/Login-form"
+    }
+  ]

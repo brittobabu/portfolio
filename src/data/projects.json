@@ -1,4 +1,12 @@
 [
+  {
+    "title": "Chat App",
+    "imageSrc": "projects/chat.png",
+    "description": "This is a project made with Node JS, React JS and ChatEngine.io.",
+    "skills": ["React", "Node", "ChatEngine.io","CSS"],
+    "demo": "https://github.com/brittobabu/chatapp",
+    "source": "https://github.com/brittobabu/chatapp"
+  },
     {
       "title": "Portfolio",
       "imageSrc": "projects/project.png",
